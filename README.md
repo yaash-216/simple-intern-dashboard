@@ -40,10 +40,10 @@ backend/
 
 ### Clone the Repository
 
-    ```sh
+```sh
     git clone https://github.com/yaash-216/simple-intern-dashboard.git
     cd simple-intern-dashboard
-    ```
+```
 
 ### Backend
 
